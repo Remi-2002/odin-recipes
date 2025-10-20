@@ -1,3 +1,24 @@
+body{
+    background-color: grey;
+    text-align: center;
+    list-style: inside;
+    font-family: "Audiowide", "Press start 2P";
+    
+}
+
 h1 {
     color: blue;
+}
+
+.description-content {
+    color: red;
+}
+
+button {
+    background-color: gold;
+    
+}
+
+h3 {
+    
 }
